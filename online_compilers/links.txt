@@ -1,0 +1,5 @@
+codechef = https://www.codechef.com/ide
+codepad = http://codepad.org/
+ideone = http://ideone.com/
+compileonline = http://compileonline.com/
+onlinecompiler = http://onlinecompiler.net/

@@ -1,1 +1,1 @@
-Spread syntax: git@github.com:Muhammadrasul446/essential_links.git
+Spread syntax: https://ideone.com/Vs9Fox

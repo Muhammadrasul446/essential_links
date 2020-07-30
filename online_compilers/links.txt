@@ -3,3 +3,4 @@ codepad = http://codepad.org/
 ideone = http://ideone.com/
 compileonline = http://compileonline.com/
 onlinecompiler = http://onlinecompiler.net/
+typescriptlang = https://www.typescriptlang.org/play/

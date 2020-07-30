@@ -1,0 +1,6 @@
+web-server = https://www.netlify.com/
+typing tutor = https://www.ratatype.com/
+media optimizer and converter = https://ezgif.com
+merge two images = https://www.imgonline.com.ua/
+online piano = https://www.onlinepianist.com/virtual-piano
+free english proficiency test = https://www.englishjet.com/english_courses_files/test_cambridge_first_certificate.asp
